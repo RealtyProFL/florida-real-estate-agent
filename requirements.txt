@@ -1,0 +1,8 @@
+langchain
+langchain-openai
+chromadb
+langchain-community
+streamlit
+psycopg
+psycopg-binary
+requests
